@@ -1,18 +1,7 @@
 
 Adventure Works Sales Dashboard Analysis![2025-01-15_23-53-46](https://github.com/user-attachments/assets/b49cbc65-1516-4454-8286-bb2a5447e001)
-[Uploading A{
-  "version": "1.0",
-  "artifacts": [
-    {
-      "report": {
-        "path": "Adventures PowerBI Data Visualization.Report"
-      }
-    }
-  ],
-  "settings": {
-    "enableAutoRecovery": true
-  }
-}dventures PowerBI Data Visualization.pbip…]()
+Here's a link to the project: https://drive.google.com/file/d/1EpO4cfnC9OUVBjcUqajAzk1a7Fwe0XTG/view?usp=drive_link 
+mariannyitmata@gmail.com
 
 Overview
 This Power BI dashboard provides comprehensive sales analysis for Adventure Works, focusing on sales amount across different regions and demographics.
@@ -69,7 +58,7 @@ Total Sales KPI
 -Gender-based Sales Analysis
 -Product Category Breakdown
 -Geographical Sales Distribution
--Year-over-Year Sales Trends
+-YoY Sales Trends
 
 Usage
 This dashboard allows users to interact and:
@@ -85,9 +74,10 @@ Built using:
 
 Power BI
 Adventure Works DW Database
+Category-based Hierarchies
 Geographic Visualization
 Time Series Analysis
-Category-based Hierarchies
+
 
 Insights
 
@@ -97,4 +87,4 @@ Global market presence with focus on US, Europe, and Oceania
 Clear seasonal and yearly trends visible in historical data
 Significant accessories market complementing main bike sales
 
-
+This content cannot be reproduced without my permission, you can click this link to see my work :) --> https://drive.google.com/file/d/1EpO4cfnC9OUVBjcUqajAzk1a7Fwe0XTG/view?usp=drive_link
